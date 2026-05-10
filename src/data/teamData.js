@@ -1,0 +1,63 @@
+// Team Data
+export const teamData = [
+  {
+    id: 1,
+    name: 'Kavitha Nair',
+    title: 'Head Therapist & Founder',
+    specialty: 'Thai & Ayurvedic Massage',
+    experience: '15 Years',
+    bio: 'Trained in Chiang Mai, Thailand and Kerala\'s Ayurvedic tradition, Kavitha brings a rare fusion of Eastern healing wisdom to every session.',
+    image: 'https://images.unsplash.com/photo-1594824476967-48c8b964273f?w=400&q=80',
+    social: {
+      instagram: '#',
+      linkedin: '#',
+      facebook: '#',
+    },
+    certifications: ['Certified Thai Therapist', 'Ayurveda Practitioner', 'Aromatherapy Specialist'],
+  },
+  {
+    id: 2,
+    name: 'Riya Verma',
+    title: 'Senior Wellness Therapist',
+    specialty: 'Hot Stone & Deep Tissue',
+    experience: '8 Years',
+    bio: 'Riya\'s intuitive understanding of muscle anatomy and her gentle yet powerful touch make her one of Delhi\'s most sought-after massage therapists.',
+    image: 'https://images.unsplash.com/photo-1614436163996-25cee5f54290?w=400&q=80',
+    social: {
+      instagram: '#',
+      linkedin: '#',
+      facebook: '#',
+    },
+    certifications: ['Hot Stone Certified', 'Sports Massage Therapist', 'Reflexology Expert'],
+  },
+  {
+    id: 3,
+    name: 'Aryan Mehta',
+    title: 'Meditation & Sound Healer',
+    specialty: 'Meditation & Tibetan Bowls',
+    experience: '10 Years',
+    bio: 'A certified meditation teacher and sound healer trained in Rishikesh and Tibet, Aryan guides guests into profound states of inner stillness and renewal.',
+    image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80',
+    social: {
+      instagram: '#',
+      linkedin: '#',
+      facebook: '#',
+    },
+    certifications: ['200hr Yoga Alliance Certified', 'Tibetan Sound Healing', 'Mindfulness Coach'],
+  },
+  {
+    id: 4,
+    name: 'Deepika Sharma',
+    title: 'Facial & Skincare Specialist',
+    specialty: 'Luxury Facials & Skincare',
+    experience: '7 Years',
+    bio: 'Deepika combines cutting-edge dermatological knowledge with ancient beauty rituals to deliver transformative facial experiences tailored to each skin type.',
+    image: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80',
+    social: {
+      instagram: '#',
+      linkedin: '#',
+      facebook: '#',
+    },
+    certifications: ['Advanced Esthetics Certified', 'Anti-Aging Specialist', 'Holistic Beauty Therapist'],
+  },
+];
